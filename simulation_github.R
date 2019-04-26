@@ -1,7 +1,7 @@
 #################
 # HPV simulation study
 # Citation: Goldstein ND, LeVasseur MT, Tran NK, Purtle J, Welles SL, Eppes SC. Modeling HPV vaccination scale-up among urban young men who have sex with men in the context of HIV. Manuscript in preparation.
-# Note: Simulation datasets may be downloaded from: https://drive.google.com/file/d/1GwEIS989ah49DPK5zaWjFhNB4SoKmCPx/view?usp=sharing
+# Note: Simulation datasets may be downloaded from: https://drive.google.com/open?id=1rGIShrA7Q70Xukt6VlY1fdvP5JLtiyR1
 # 1/24/17 -- Neal Goldstein
 #################
 
